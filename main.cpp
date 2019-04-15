@@ -785,12 +785,12 @@ void Graf_Orientat::Graf_Conex()
     }
     if(nr != 1)
     {
-        g<<"Graf nu e conex";
+        g<<"Graf nu e  tare conex";
         g<<endl;
     }
     else
     {
-        g<<"Graful este conex";
+        g<<"Graful este tare conex";
         g<<endl;
     }
 }
